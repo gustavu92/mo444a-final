@@ -1,10 +1,9 @@
 # mo444a-final
 MO444A - Project
 
+28/10/2018 - Atualização
 
-[01. Detectar emoções - CNN](01.%20Projeto%20-%20Detectar%20emoções%20-%20CNN.ipynb): 
-
-    CNN com as seguintes camadas 
+[01. Detectar emoções - CNN](01.%20Projeto%20-%20Detectar%20emoções%20-%20CNN.ipynb): CNN com as seguintes camadas 
     
        Conv2d(32, 5x5)  | Ativação (Relu) | MaxPooling2D (2x2)
        
